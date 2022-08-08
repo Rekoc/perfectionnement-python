@@ -1,2 +1,6 @@
 # Relay-TCP
 twisted==22.4.0
+numpy==1.23.1
+pandas==1.4.3
+matplotlib==3.5.2
+pyqt5==5.15.7
